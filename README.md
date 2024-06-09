@@ -18,12 +18,7 @@ function start() {
     
 }
 ```
-## Check out other simple Web3.js samples
-https://github.com/shawntabrizi/ETH-Balance
 
-https://github.com/shawntabrizi/ERC-20-Token-Balance
-
-https://github.com/shawntabrizi/ETH-Balance-Graph
 
 
 ![Screenshot](https://i.imgur.com/YW0nsfj.png)
